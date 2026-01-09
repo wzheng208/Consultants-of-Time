@@ -123,9 +123,6 @@ export default function Reviews() {
         ))}
       </div>
 
-      <p className='mt-4 text-xs text-[var(--muted)] text-center'>
-        Replace with verified client feedback.
-      </p>
     </section>
   );
 }
